@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Chopper": {
+      "commandName": "Project",
+      "commandLineArgs": "D:\\validator_validation\\FASTA\\uniprot-human-2021-05-28-reviewed_yes-Copy.fasta 8 15"
+    }
+  }
+}
